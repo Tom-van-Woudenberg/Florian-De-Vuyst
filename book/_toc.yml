@@ -1,5 +1,5 @@
 format: jb-book
-root: MT09-TP6.ipynb
+root: intro.md
 
 parts:
   - caption: Contents
