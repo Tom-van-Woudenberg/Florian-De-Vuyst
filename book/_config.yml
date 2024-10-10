@@ -31,6 +31,3 @@ sphinx:
     - jupyterbook_patches
     - download_link_replacer
     - sphinx.ext.extlinks
-
-bibtex_bibfiles: 
-  - references.bib
